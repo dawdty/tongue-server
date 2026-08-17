@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.4.4",
+    "dotenv": "^16.4.7",
+    "express": "^5.2.1",
+    "multer": "^2.0.2",
+    "zod": "^4.3.6"
+  }
+}
